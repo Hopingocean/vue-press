@@ -1,7 +1,7 @@
 module.exports = {
+	base: '/vue-press/',
 	title: 'VuePress',
 	description: 'A VuePress Demo',
-	base: '/vue-press/',
 	themeConfig: {
 		nav: [
 			{ text: 'guide', link: '/guide/' },
