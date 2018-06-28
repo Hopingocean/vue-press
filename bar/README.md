@@ -1,0 +1,2 @@
+# bar
+a bar page
