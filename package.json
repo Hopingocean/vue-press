@@ -1,0 +1,27 @@
+{
+  "name": "vue-press",
+  "version": "1.0.0",
+  "description": "Lee's Blog",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hopingocean/vue-press.git"
+  },
+  "keywords": [
+    "VuePress"
+  ],
+  "author": "Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hopingocean/vue-press/issues"
+  },
+  "homepage": "https://github.com/Hopingocean/vue-press#readme"
+}
